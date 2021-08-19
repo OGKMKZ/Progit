@@ -1,6 +1,7 @@
 sdakfmkasmdf
 
 conflicted
+<<<<<<< HEAD
 from progit-alt
 from progit
 1: pg-alt
@@ -10,3 +11,6 @@ from progit
 
 2 pg
 4 pg
+=======
+tes1
+>>>>>>> f57f0ca (hello from test1)
